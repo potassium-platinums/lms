@@ -1140,4 +1140,7 @@ blockquote {
   h5 {
     font-size: 20px;
   }
+  .navbar-brand span{
+    font-size: 8px;
+  }
 }
